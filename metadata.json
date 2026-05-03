@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Matdaan Mitra",
+  "description": "An AI-powered electoral assistant featuring real-time fact-checking, dynamic quizzes, and personalized daily insights to foster informed citizenship.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
